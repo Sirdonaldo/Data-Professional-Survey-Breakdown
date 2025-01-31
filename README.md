@@ -1,2 +1,4 @@
 # Data-Professional-Survey-Breakdown
-Developed an interactive Power BI dashboard to analyze survey data from data professionals, providing key insights into industry trends, job satisfaction, salary distribution, and tool usage. Utilized Power Query to clean and transform raw survey data, ensuring accuracy and consistency. 
+Developed an interactive Power BI dashboard to analyze survey data from data professionals, providing key insights into industry trends, job satisfaction, salary distribution, and tool usage. Utilized Power Query to clean and transform raw survey data, ensuring accuracy and consistency. Built DAX measures to calculate essential KPIs, such as average salary by role, experience level, and regional distribution. Designed a structured data model with optimized relationships for efficient querying and visualization. Created dynamic, user-friendly reports with slicers, drill-throughs, and interactive filters to enhance data exploration. The project helped identify actionable insights for decision-making in the data industry.
+
+Tools & Skills Used: Power BI, DAX, Power Query, Data Modeling, Data Visualization, KPI Analysis
